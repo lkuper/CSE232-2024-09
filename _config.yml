@@ -1,0 +1,14 @@
+title: "CSE232, Fall 2024"
+description: "Distributed Systems"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+repository: "lkuper/CSE232-2024-09"
+
+url: "https://decomposition.al"
+
+baseurl: "/CSE232-2024-09"
+
+plugins:
+  - jekyll-include-cache
