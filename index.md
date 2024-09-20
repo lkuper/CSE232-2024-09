@@ -9,7 +9,7 @@ layout: single
 </figure>
 
 
-Welcome to CSE232, fall 2023 edition!
+Welcome to CSE232, fall 2024 edition!
 
 For more information, read the [first-day-of-class course overview](course-overview.html), then check out the [schedule of topics and readings](schedule.html).
 
