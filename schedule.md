@@ -27,22 +27,22 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Wednesday, 10/16 | <span class="discussion">Discussion</span>: Kenneth Birman, André Schiper, and Pat Stephenson, ["Lightweight Causal and Atomic Group Multicast" (TOCS, 1991)](readings/cbcast.pdf) **(sections 1-5 only)** | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 10/23
 | Friday, 10/18    | <span class="lecture">Lecture</span>: uses of causality in distributed systems; consistent snapshots; Chandy-Lamport snapshot algorithm
 | Monday, 10/21    | <span class="discussion">Discussion</span>: K. Mani Chandy and Leslie Lamport, ["Distributed Snapshots: Determining Global States of Distributed Systems" (TOCS, 1985)](readings/chandy.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 10/28
-| Wednesday, 10/23 | TBD
-| Friday, 10/25    | <span class="lecture">Lecture (on Zoom)</span>: Chandy-Lamport wrap-up: limitations, assumptions, properties; uses of snapshots; centralized vs. decentralized algorithms; recap of delivery guarantees and protocols; safety and liveness; reliable delivery
+| Wednesday, 10/23 | No class (Lindsey at OOPSLA) | If you want to, check out the [paper we're presenting at OOPSLA](https://2024.splashcon.org/details/splash-2024-oopsla/20/Inductive-diagrams-for-causal-reasoning) -- it's related to this class!
+| Friday, 10/25    | <span class="lecture">Lecture (on Zoom)</span>: Chandy-Lamport wrap-up; centralized vs. decentralized algorithms; recap of delivery guarantees and protocols; reliable delivery; safety and liveness; the CAP trade-off
 | Monday, 10/28    | <span class="discussion">Discussion</span>: Seth Gilbert and Nancy A. Lynch, ["Perspectives on the CAP Theorem" (IEEE Computer, 2012)](readings/cap-perspectives.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/4
 | Wednesday, 10/30 | <span class="lecture">Lecture</span>: fault classification and fault models; two generals problem
 | Friday, 11/1     | <span class="discussion">Discussion</span>: Joseph Y. Halpern and Yoram Moses, ["Knowledge and Common Knowledge in a Distributed Environment" (JACM, 1990)](readings/common-knowledge.pdf) **(sections 1-4 only)** | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/8
-| Monday, 11/4     | \*pause for breath\* 
-| Wednesday, 11/6  | <span class="lecture">Lecture</span>: implementing reliable delivery; idempotence; at-least-once/at-most-once/exactly-once delivery; replication; total order vs. determinism; primary-backup replication; chain replication; latency and throughput
-| Friday, 11/8     | <span class="discussion">Discussion</span>: Robbert van Renesse and Fred B. Schneider, ["Chain Replication for Supporting High Throughput and Availability" (OSDI 2004)](readings/chain-replication.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/13
+| Monday, 11/4     | <span class="lecture">Lecture</span>: implementing reliable delivery; idempotence; at-least-once/at-most-once/exactly-once delivery; replication; total order vs. determinism; primary-backup replication; chain replication; latency and throughput
+| Wednesday, 11/6  | <span class="discussion">Discussion</span>: Robbert van Renesse and Fred B. Schneider, ["Chain Replication for Supporting High Throughput and Availability" (OSDI 2004)](readings/chain-replication.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/13
+| Friday, 11/8     | **[Guest lecture: Srinivasan (Sesh) Seshadri](https://www.linkedin.com/in/srinivasanseshadri/)**
 | Monday, 11/11    | No class (Veterans Day)
 | Wednesday, 11/13 | <span class="lecture">Lecture</span>: handling node failure in replication protocols; introduction to consensus; problems equivalent to consensus; the FLP result; introduction to Paxos
-| Friday, 11/15    | <span class="discussion">Discussion</span>: Leslie Lamport, ["Paxos Made Simple" (2001)](readings/paxos-simple.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/20
+| Friday, 11/15    | <span class="discussion">Discussion</span>: Leslie Lamport, ["Paxos Made Simple" (2001)](readings/paxos-simple.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/22
 | Monday, 11/18    | <span class="lecture">Lecture</span>: Paxos: the interesting parts; Multi-Paxos; fault tolerance of Paxos; brief mention of other consensus protocols: Viewstamped Replication, Zab, Raft; passive vs. active (state machine) replication
 | Wednesday, 11/20 | <span class="discussion">Discussion</span>: Tushar Chandra, Robert Griesemer, and Joshua Redstone, ["Paxos Made Live: An Engineering Perspective" (invited talk, PODC 2007)](readings/paxos-made-live.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/27
 | Friday, 11/22    | <span class="lecture">Lecture</span>: MapReduce
 | Monday, 11/25    | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on Friday, 12/2
-| Wednesday, 11/27 | TBD
+| Wednesday, 11/27 | /*pause for breath/*
 | Friday, 11/29    | No class (Thanksgiving break)
 | Monday, 12/2     | <span class="lecture">Lecture (on Zoom)</span>: eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution; network partitions; availability; the consistency/availability trade-off; anti-entropy with Merkle trees; gossip; quorum consistency
 | Wednesday, 12/4  | <span class="discussion">Discussion (on Zoom)</span>: Giuseppe DeCandia et al., ["Dynamo: Amazon’s Highly Available Key-value Store" (SOSP 2007)](readings/amazon-dynamo.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 12/11
