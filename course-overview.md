@@ -26,7 +26,7 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (I prefer to be c
   - Course GitHub repo (public; for class discussion summaries): <https://github.com/lkuper/CSE232-2024-09/>
   - Canvas (for reading responses and grades): <https://canvas.ucsc.edu/courses/75739>
   - Zulip (for announcements, live chat during lectures, Q&A, communicating with Lindsey and your fellow students, etc.): <https://ucsc-cse232.zulipchat.com> (enrolled students will receive an invitation link)
-  - Course web page (you're soaking in it): <https://decomposition.al/CSE232-2024-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE"
+  - Course web page (you're soaking in it): <https://decomposition.al/CSE232-2024-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE")
   
 ## What's this course about?
 
