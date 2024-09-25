@@ -35,8 +35,9 @@ The field of _distributed systems_ studies the design, implementation, and behav
 Some of the foundational distributed systems concepts we'll explore in this course are:
 
   * **Time and asynchrony.**  No two computers can reason about each others' perception of time.  What does it mean to talk about time when we don't share a clock?
-  * **Fault tolerance and replication.**  Given that computers crash and messages get lost, how can we write protocols and algorithms that have adequate redundancy to tolerate failure?  Maybe if I think a computer will crash, it's a good idea to run the same computation on more than one computer!  Maybe if I think messages will be lost, I should send the same message more than once!
-  * **Consistency and consensus.**  Is our system storing the right data and providing the right responses?  I might have two "replicas" that aren't actually replicas!  If replicas disagree, how do we know which one is right?  Or is it better to try to ensure that they agree in the first place?
+  * **Local and global perspectives.** Each component in a distributed system behaves independently, but collectively the system must accomplish some task.  How can we accomplish something global by taking only local actions?  And how will we *know* that the global task has been accomplished?
+  * **Fault tolerance and replication.**  Given that computers crash and messages get lost, how can we write protocols and algorithms that have adequate redundancy to tolerate failure?  Machines can crash, so we'd better store copies of our data on more than one machine. Messages can be lost, so we might need to resend them.
+  * **Consistency and consensus.**  Now that we have multiple copies of our data, how do we keep them in sync -- especially in the face of message loss?  And to what extent do the copies actually *need* to be kept in sync?
   
 The [schedule](schedule.md) has more details!
 
