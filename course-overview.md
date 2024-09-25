@@ -195,7 +195,9 @@ A student turned in a reading response for the Waldo et al. paper that said:
 
 Unfortunately, this is plagiarism.  It takes the above sentence from the original paper, removes the middle chunk of the sentence, replaces the word "irreconcilable" with "incompatible", and calls it a day.
 
-What should the student have done here instead?  The right thing to do is to think about what the idea from the paper is that you want to convey, and then convey that idea in your own words while acknowledging that it comes from the paper.  For example, one might write:
+What should the student have done here instead?
+
+The right thing to do is to **think about what the idea from the paper is that you want to convey, and then convey that idea in your own words while acknowledging that it comes from the paper**.  For example, one might write:
 
 > The paper says that people think too much about latency and don't pay enough attention to bigger differences between local and distributed programming.
 
@@ -203,9 +205,13 @@ Notice that this version is very casually written.  **That's fine!  In fact, it'
 
 > The paper argues that focusing exclusively on latency leads to an unfortunate lack of emphasis on the more "irreconcilable differences" between local and distributed computing.
 
-But both sentences do what we're looking for in this course: they credit the paper with an idea and paraphrase that idea.  The second sentence uses a recognizable phrase, "irreconcilable differences", from the paper, but quotes it -- this is fine to do.
+This version is also great.  Both versions do what we're looking for in this course: they credit the paper with an idea, and they paraphrase that idea.  The second sentence uses a recognizable phrase, "irreconcilable differences", from the paper, but quotes it -- this is fine to do.
 
-Many of the papers we're reading are classics, and much has been written and said about them.  It's absolutely fine to consult existing videos, blogs, etc. to check your understanding, as long as you cite those materials.  However, using other people's words without appropriately citing and quoting them is unacceptable.  **I would always much rather have you submit your own original writing, even if it is extremely casual and unpolished.**
+If you are having trouble understanding the papers we read in this course to the point where you feel you are unable to write a response, the thing to do is **ask questions on Zulip until you understand**. I am eager to help answer your questions!
+
+Many of the papers we're reading are classics, and much has been written and said about them.  It's absolutely fine to consult existing videos, blogs, etc. to check your understanding, as long as you cite those materials.  However, using other people's words without appropriately citing and quoting them is unacceptable.  **Submit your own original writing, even if it is extremely casual and unpolished.**
+
+It's specifically not okay to lift an entire phrase from a paper we're reading, possibly changing a word or two to synonyms, and use that phrase in a reading response.
 
 If I see that the writing you do for this course contains material that is copied from a source without appropriate citation and quotation, *at a minimum*, you will get no credit for the assignment in question, and you risk further penalties, such as failing the course.
 
@@ -215,9 +221,9 @@ This course involves a lot of writing, and you might be tempted to use LLM-based
 
 I used to have a much more permissive policy on the use of LLM-based tools, but after having seen how their use has hurt students and inhibited their learning in my other classes, I can no longer recommend using them.
 
-If you're enrolled in this (elective, graduate) course, it's presumably because you want to deeply understand the subject matter.  The knowledge and experiences you've gained in your life so far will inform that understanding.  By building on those experiences and putting them together with what you glean from this course, you will probably think of things that I've never thought of before.  You may even think of things that *no one* has thought of before!  I am excited to see those ideas emerge in the writing you do for this class.  However, as [Rob Ricci](https://ricci.io/) puts it, ["I can't tell you exactly what this should look like, because the point is that I want to see things that are different from what everyone else is writing."](https://recurse.social/@ricci@discuss.systems/111103870283618525)
+If you're enrolled in this (elective, graduate) course, it's presumably because you want to deeply understand the subject matter.  The knowledge and experiences you've gained in your life so far will inform that understanding.  By building on those experiences and putting them together with what you glean from this course, you will probably think of things that I've never thought of before.  You may even think of things that *no one* has thought of before!  I am excited to see those ideas emerge in the writing you do for this class.
 
-LLM-based tools, on the other hand, produce statistically likely responses to prompts.  If you go to the effort of dumping the text of an assigned reading into ChatGPT and prompting it to produce a paper summary or a discussion question for this course, it will produce -- with great confidence, and in impeccable English prose -- ["a thoroughly mediocre response that is indistinguishable from all the other text it has ingested on the topic"](https://discuss.systems/@ricci/111103870175372635), to quote Rob again.
+LLM-based tools, on the other hand, produce statistically likely responses to prompts.  If you dump the text of an assigned reading into ChatGPT and prompt it to produce a paper summary or a discussion question for this course, it will produce -- with great confidence, and in impeccable English prose -- ["a thoroughly mediocre response that is indistinguishable from all the other text it has ingested on the topic"](https://discuss.systems/@ricci/111103870175372635), as Rob Ricci puts it.
 
 What's worse is that LLM-based tools can easily produce text containing information that is *plausible but false*.  They obscure the sources of ideas, making it impossible to properly cite those sources and maintain academic integrity.  While LLM-based writing tools have their uses, these problems make them fundamentally unsuitable for the kind of work we are trying to do in this class.
 
