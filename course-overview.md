@@ -59,7 +59,7 @@ Some people will like this format, while others won't like it at all -- so give 
 
 On lecture days, the material we'll cover in CSE232 will be similar to my undergrad distributed systems course, CSE138, although the pace will be faster.  Some of you may find my [CSE138 lecture videos](https://decomposition.al/CSE138-2021-03/schedule.html) to be a helpful resource.
 
-On discussion days, we'll discuss mostly older papers, primarily from the 80s and 90s, because a lot of our focus will be on the foundations of the field and the historical development of distributed systems ideas.  In fact, the most recent of the papers on the [schedule](schedule.html) was published in 2007.  If you're mostly interested in reading shiny new distributed systems papers instead of older ones, this course is probably not for you.
+On discussion days, about half of the papers we discuss will be quite old papers, primarily from the 80s and 90s, because a lot of our focus will be on the foundations of the field and the historical development of distributed systems ideas.  Even the "newer" papers we'll discuss aren't that new.  In fact, the most recent of the papers on the [schedule](schedule.html) was published in 2012.  If you're mostly interested in reading shiny new distributed systems papers instead of older ones, this course is probably not for you.
 
 At the end of the course, we'll have a final exam that will focus on the lecture material.
 
