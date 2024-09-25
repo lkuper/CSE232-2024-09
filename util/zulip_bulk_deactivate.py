@@ -20,5 +20,6 @@ if result['result'] == 'success':
             print("Keeping this user:", user['delivery_email'])
         # Deactivate everyone else
         else:
-            print("DEACTIVATING this user:", user['delivery_email'], user['user_id'])
-            client.deactivate_user_by_id(user['user_id'])
+            if user['is_active']:
+                print("DEACTIVATING this user:", user['delivery_email'], user['user_id'])
+                client.deactivate_user_by_id(user['user_id'])
