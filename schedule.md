@@ -34,7 +34,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Friday, 11/1     | <span class="discussion">Discussion</span>: Joseph Y. Halpern and Yoram Moses, ["Knowledge and Common Knowledge in a Distributed Environment" (JACM, 1990)](readings/common-knowledge.pdf) **(sections 1-4 only)** | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/8
 | Monday, 11/4     | <span class="lecture">Lecture</span>: implementing reliable delivery; idempotence; at-least-once/at-most-once/exactly-once delivery; replication; total order vs. determinism; primary-backup replication; chain replication; latency and throughput
 | Wednesday, 11/6  | <span class="discussion">Discussion</span>: Robbert van Renesse and Fred B. Schneider, ["Chain Replication for Supporting High Throughput and Availability" (OSDI 2004)](readings/chain-replication.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/13
-| Friday, 11/8     | **[Guest lecture: Srinivasan (Sesh) Seshadri](https://www.linkedin.com/in/srinivasanseshadri/)**
+| Friday, 11/8     | **Guest lecture: [Srinivasan (Sesh) Seshadri](https://www.linkedin.com/in/srinivasanseshadri/)**
 | Monday, 11/11    | No class (Veterans Day)
 | Wednesday, 11/13 | <span class="lecture">Lecture</span>: handling node failure in replication protocols; introduction to consensus; problems equivalent to consensus; the FLP result; introduction to Paxos
 | Friday, 11/15    | <span class="discussion">Discussion</span>: Leslie Lamport, ["Paxos Made Simple" (2001)](readings/paxos-simple.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/22
@@ -42,7 +42,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Wednesday, 11/20 | <span class="discussion">Discussion</span>: Tushar Chandra, Robert Griesemer, and Joshua Redstone, ["Paxos Made Live: An Engineering Perspective" (invited talk, PODC 2007)](readings/paxos-made-live.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/27
 | Friday, 11/22    | <span class="lecture">Lecture</span>: MapReduce
 | Monday, 11/25    | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on Friday, 12/2
-| Wednesday, 11/27 | /*pause for breath/*
+| Wednesday, 11/27 | TBD
 | Friday, 11/29    | No class (Thanksgiving break)
 | Monday, 12/2     | <span class="lecture">Lecture (on Zoom)</span>: eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution; network partitions; availability; the consistency/availability trade-off; anti-entropy with Merkle trees; gossip; quorum consistency
 | Wednesday, 12/4  | <span class="discussion">Discussion (on Zoom)</span>: Giuseppe DeCandia et al., ["Dynamo: Amazon’s Highly Available Key-value Store" (SOSP 2007)](readings/amazon-dynamo.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 12/11
