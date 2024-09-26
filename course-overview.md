@@ -208,7 +208,7 @@ Notice that this version is very casually written.  **That's fine!  In fact, it'
 
 This version is also great.  Both versions do what we're looking for in this course: they credit the paper with an idea, and they paraphrase that idea.  The second sentence uses a recognizable phrase, "irreconcilable differences", from the paper, but quotes it -- this is fine to do.
 
-If you are having trouble understanding the papers we read in this course to the point where you feel you are unable to write a response, the thing to do is **ask questions on Zulip until you understand**. I am eager to help answer your questions!
+If you are having trouble understanding the papers we read in this course to the point where you feel you are unable to write a response, the thing to do is **ask questions, on Zulip or in person, until you understand**. I am eager to help answer your questions!
 
 Many of the papers we're reading are classics, and much has been written and said about them.  It's absolutely fine to consult existing videos, blogs, etc. to check your understanding, as long as you cite those materials.  However, using other people's words without appropriately citing and quoting them is unacceptable.  **Submit your own original writing, even if it is extremely casual and unpolished.**
 
