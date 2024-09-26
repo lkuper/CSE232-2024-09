@@ -41,7 +41,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Monday, 11/18    | <span class="lecture">Lecture</span>: Paxos: the interesting parts; Multi-Paxos; fault tolerance of Paxos; brief mention of other consensus protocols: Viewstamped Replication, Zab, Raft; passive vs. active (state machine) replication
 | Wednesday, 11/20 | <span class="discussion">Discussion</span>: Tushar Chandra, Robert Griesemer, and Joshua Redstone, ["Paxos Made Live: An Engineering Perspective" (invited talk, PODC 2007)](readings/paxos-made-live.pdf) | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 11/27
 | Friday, 11/22    | <span class="lecture">Lecture</span>: MapReduce
-| Monday, 11/25    | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on Friday, 12/2
+| Monday, 11/25    | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 12/2
 | Wednesday, 11/27 | TBD
 | Friday, 11/29    | No class (Thanksgiving break)
 | Monday, 12/2     | <span class="lecture">Lecture (on Zoom)</span>: eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution; network partitions; availability; the consistency/availability trade-off; anti-entropy with Merkle trees; gossip; quorum consistency
