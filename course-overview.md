@@ -132,7 +132,7 @@ On discussion days, we'll use a structured in-class discussion process.  The pro
 
 At the start of each discussion day, after at most 5 minutes for announcements, the class will split into small groups of (at most) 7-8 students for 30 minutes.
 
-In your small group, three members of the group must take on the following **roles**, and carry out this role in addition to actively participating in the conversation.  Each student in the class should serve in each of the roles **two or more times** during the term, and we'll track roles in a spreadsheet.
+In your small group, three members of the group must take on the following **roles**, and carry out this role in addition to actively participating in the conversation.  Each student in the class should serve in each of the roles **three or more times** during the term, and we'll track roles in a spreadsheet.
 
   * **Scribe**: The role of the scribe is to take notes during the conversation, while participating in the conversation themselves.  After class, all the scribes will meet and contribute to a formal write-up of the class discussion on the course's public GitHub wiki.
   * **Manager**: The role of the manager is to keep track of time and make sure that all of the discussion questions get touched upon and that everyone has had a chance to speak.  Afterward, they will be responsible for recording everyone's role on a shared spreadsheet.
