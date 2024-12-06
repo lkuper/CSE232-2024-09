@@ -44,7 +44,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Monday, 11/25    | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 12/2
 | Wednesday, 11/27 | **Guest lecture: [Srinivasan (Sesh) Seshadri](https://www.linkedin.com/in/srinivasanseshadri/)**
 | Friday, 11/29    | No class (Thanksgiving break)
-| Monday, 12/2     | <span class="lecture">Lecture (on Zoom)</span>: eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution; network partitions; availability; the consistency/availability trade-off; anti-entropy with Merkle trees; gossip; quorum consistency
+| Monday, 12/2     | <span class="lecture">Lecture (on Zoom)</span>: eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution
 | Wednesday, 12/4  | <span class="discussion">Discussion (on Zoom)</span>: Giuseppe DeCandia et al., ["Dynamo: Amazon’s Highly Available Key-value Store" (SOSP 2007)](readings/amazon-dynamo.pdf)  | Reading response due at noon; scribes' wiki write-up due 11:59:59pm PT on 12/11
 | Friday, 12/6     | <span class="lecture">Lecture (on Zoom): </span> Wrap-up and exam review
 | Tuesday, 12/10   | **Final exam**, 4–7pm
